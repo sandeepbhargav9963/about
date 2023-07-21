@@ -1,0 +1,222 @@
+.content_about {
+  position: relative;
+  text-indent: 150px;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  font-size: 20px;
+}
+.About-main {
+  width: 800px;
+
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  margin-left: 700px;
+  font-size: 30px;
+  margin-top: -420px;
+  margin-bottom: 200px;
+  font-weight: bolder;
+}
+.Aboutimg1 {
+  width: 600px;
+  border-top-right-radius: 235px;
+  border-bottom-right-radius: 235px;
+  border-bottom-left-radius: 190px;
+  margin-left: 50px;
+  height: 500px;
+}
+.Aboutimg1:hover {
+  transform: scale(1.05);
+  box-shadow: 450px 450px 400px rgba(11, 11, 11, 0.12),
+    0 24px 80px rgba(0, 0, 0, 0.06);
+}
+.chose {
+  width: 900px;
+  margin-left: 50px;
+  font-size: 25px;
+  margin-top: 25px;
+  font-weight: 200;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+.choseimg {
+  width: 500px;
+  height: 400px;
+  margin-left: 1000px;
+  position: relative;
+  margin-top: -300px;
+  border: 4px solid rgb(16, 225, 54);
+  border-top-left-radius: 155px;
+  border-bottom-left-radius: 155px;
+  border-bottom-right-radius: 155px;
+}
+.chosecard {
+  width: 400px;
+  background-color:"#fff";
+  height: auto;
+border:0.4px solid black;
+  margin-left: 80px;
+  margin-bottom: 120px;
+  border-radius: 25px;
+ 
+}
+.chosecard1 {
+  width: 400px;
+  background-color:"#fff";
+  border:0.6px solid black;
+  height: auto;
+  margin-top: -610px;
+  margin-left: 500px;
+  margin-bottom: 120px;
+  border-radius: 25px;
+}
+.chosecard2 {
+  width: 400px;
+  background-color:"#fff";
+  border:0.6px solid black;
+  height: 490px;
+  margin-top: -610px;
+  margin-left: 920px;
+  margin-bottom: 120px;
+  border-radius: 25px;
+}
+.chosecard3 {
+  width: 400px;
+  background-color:"#fff";
+  border:0.6px solid black;
+  height: 490px;
+  margin-top: -80px;
+  margin-left: 80px;
+  margin-bottom: 80px;
+  border-radius: 25px;
+}
+.chosecard4 {
+  width: 400px;
+  background-color:"#fff";
+  border:0.6px solid black;
+  height: 490px;
+  margin-top: -570px;
+  margin-left: 500px;
+  margin-bottom: 80px;
+  border-radius: 25px;
+}
+.chosecard5 {
+  width: 400px;
+  background-color:"#fff";
+  border:0.6px solid black;
+  height: 490px;
+  margin-top: -570px;
+  margin-left: 920px;
+  margin-bottom: 80px;
+  border-radius: 25px;
+}
+.chosecardimg {
+  margin-top: -45px;
+  height: 300px;
+  width: 300px;
+  margin-left: 60px;
+}
+.chosecardimg1{
+  
+  height: 260px;
+  width: 300px;
+  margin-left: 60px;
+}
+.chosecardimg2{
+  
+  height: 260px;
+  width: 300px;
+  margin-left: 40px;
+}
+.chosecardimg3{
+  
+  height: 260px;
+  width: 300px;
+  margin-left: 40px;
+}
+.chosecardimg4{
+  
+  height: 260px;
+  width: 300px;
+  margin-left: 40px;
+}
+.chosecardimg5{
+  
+  height: 260px;
+  width: 300px;
+  margin-left: 40px;
+}
+
+
+.data {
+  margin-top: -15px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 16px;
+  padding: 10px;
+}
+.data2 {
+  margin-top: -15px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 16px;
+  padding: 10px;
+}
+.data3 {
+  margin-top: -15px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 16px;
+  padding: 10px;
+}
+.data4 {
+  margin-top: -15px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 16px;
+  padding: 10px;
+}
+.data5 {
+  margin-top: -15px;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 16px;
+  padding: 10px;
+}
+.chosecard:hover{
+  transform: scale(1.05);
+  box-shadow: 450px 450px 400px rgba(11, 11, 11, 0.12),
+    0 24px 80px rgba(0, 0, 0, 0.06);
+    background-color: rgb(60, 148, 120);
+}
+.chosecard1:hover{
+  transform: scale(1.05);
+  box-shadow: 150px 150px 200px rgba(11, 11, 11, 0.12),
+    0 20px 60px rgba(0, 0, 0, 0.06);
+    background-color: rgb(60, 148, 120);
+}
+.chosecard2:hover{
+  transform: scale(1.05);
+  box-shadow: 450px 450px 400px rgba(11, 11, 11, 0.12),
+    0 24px 80px rgba(0, 0, 0, 0.06);
+    background-color: rgb(60, 148, 120);
+}
+.chosecard3:hover{
+  transform: scale(1.05);
+  box-shadow: 450px 450px 400px rgba(11, 11, 11, 0.12),
+    0 24px 80px rgba(0, 0, 0, 0.06);
+    background-color: rgb(60, 148, 120);
+}
+.chosecard4:hover{
+  transform: scale(1.05);
+  box-shadow: 450px 450px 400px rgba(11, 11, 11, 0.12),
+    0 24px 80px rgba(0, 0, 0, 0.06);
+    background-color: rgb(60, 148, 120);
+}
+.chosecard5:hover{
+  transform: scale(1.05);
+  box-shadow: 450px 450px 400px rgba(11, 11, 11, 0.12),
+    0 24px 80px rgba(0, 0, 0, 0.06);
+    background-color: rgb(60, 148, 120);
+}
+.Together{
+  text-align: center;
+  font-size: 30px;
+}
+
